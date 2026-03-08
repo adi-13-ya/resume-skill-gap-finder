@@ -1,0 +1,10 @@
+# ─────────────────────────────────────────────
+# ScopeWise — Git ignore
+# ─────────────────────────────────────────────
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+data/onet/onet_db.zip

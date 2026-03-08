@@ -1,0 +1,18 @@
+# ─────────────────────────────────────────────
+# ScopeWise — Dependencies
+# ─────────────────────────────────────────────
+
+# Phase 1: Document parsing
+pdfplumber>=0.10.0
+python-docx>=1.1.0
+
+# Phase 2: NER extraction (HuggingFace)
+transformers>=4.36.0
+torch>=2.1.0
+
+# Phase 2: O*NET normalization (fuzzy matching)
+rapidfuzz>=3.5.0
+
+# Phase 2: LLM Pros & Cons (Ollama via OpenAI-compatible SDK)
+openai>=1.10.0
+python-dotenv>=1.0.0
