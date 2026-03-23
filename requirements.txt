@@ -16,3 +16,11 @@ rapidfuzz>=3.5.0
 # Phase 2: LLM Pros & Cons (Ollama via OpenAI-compatible SDK)
 openai>=1.10.0
 python-dotenv>=1.0.0
+
+# Phase 3: Semantic similarity (Sentence Transformers)
+sentence-transformers>=2.2.0
+
+# Phase 3: Fuzzy inference system
+scikit-fuzzy>=0.4.2
+scipy>=1.11.0
+numpy>=1.24.0

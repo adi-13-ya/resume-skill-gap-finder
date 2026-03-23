@@ -1,0 +1,15 @@
+{
+  "similarity_score": 0.6077,
+  "experience_score": 0.2,
+  "structural_score": 0.8,
+  "structural_analysis": {
+    "section_clarity": 9,
+    "quantification_usage": 8,
+    "action_language_strength": 7,
+    "completeness": 9,
+    "overall_structural_score": 8,
+    "structural_feedback": "The resume has a clear structure, with well-organized sections and effective use of quantifiable achievements. However, some action verbs could be stronger."
+  },
+  "fuzzy_crisp_score": 0.258,
+  "verdict": "Weak Match"
+}
