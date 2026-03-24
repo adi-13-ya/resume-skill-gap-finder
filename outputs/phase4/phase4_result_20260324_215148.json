@@ -1,0 +1,56 @@
+{
+  "role_title": ".NET Developer",
+  "structural_advice": [
+    "Ensure your sections (Education, Experience, Skills) are clearly separated with standard headings.",
+    "Try to use more numbers and metrics to quantify your achievements (e.g., 'reduced latency by 20%').",
+    "Use strong action verbs (e.g., 'Architected', 'Spearheaded') to start bullet points."
+  ],
+  "skill_explanations": [
+    {
+      "skill": "Flexibility of Closure",
+      "criticality": "This skill is highly valued in the industry.",
+      "foundation": "Your existing experience is a great starting point, but specific knowledge is required.",
+      "next_steps": "Consider taking an introductory course."
+    },
+    {
+      "skill": "Law and Government",
+      "criticality": "This skill is highly valued in the industry.",
+      "foundation": "Your existing experience is a great starting point, but specific knowledge is required.",
+      "next_steps": "Consider taking an introductory course."
+    }
+  ],
+  "recommended_resources": {
+    "Flexibility of Closure": {
+      "skill": "Flexibility of Closure",
+      "curated": false,
+      "resources": [
+        {
+          "platform": "YouTube",
+          "title": "Search: Flexibility of Closure tutorials",
+          "url": "https://www.youtube.com/results?search_query=Flexibility%20of%20Closure%20tutorial%20full%20course"
+        },
+        {
+          "platform": "Coursera",
+          "title": "Search: Flexibility of Closure courses",
+          "url": "https://www.coursera.org/search?query=Flexibility%20of%20Closure"
+        }
+      ]
+    },
+    "Law and Government": {
+      "skill": "Law and Government",
+      "curated": false,
+      "resources": [
+        {
+          "platform": "YouTube",
+          "title": "Search: Law and Government tutorials",
+          "url": "https://www.youtube.com/results?search_query=Law%20and%20Government%20tutorial%20full%20course"
+        },
+        {
+          "platform": "Coursera",
+          "title": "Search: Law and Government courses",
+          "url": "https://www.coursera.org/search?query=Law%20and%20Government"
+        }
+      ]
+    }
+  }
+}

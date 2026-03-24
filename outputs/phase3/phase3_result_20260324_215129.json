@@ -1,0 +1,15 @@
+{
+  "similarity_score": 0.4135,
+  "experience_score": 0.2,
+  "structural_score": 0.0,
+  "structural_analysis": {
+    "section_clarity": 0,
+    "quantification_usage": 0,
+    "action_language_strength": 0,
+    "completeness": 0,
+    "overall_structural_score": 0,
+    "structural_feedback": "Structural analysis could not be completed."
+  },
+  "fuzzy_crisp_score": 0.25,
+  "verdict": "Weak Match"
+}
